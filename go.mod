@@ -1,3 +1,3 @@
-module github.com/yusufguntav/credit-calculator
+module github.com/vayztr/credit-calculator
 
 go 1.24.0
